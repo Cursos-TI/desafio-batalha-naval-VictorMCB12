@@ -44,7 +44,7 @@ int main() {
             } else {
                 cone[i][j] = 0; // Preenche o resto com 0
             }
-            printf("%d ", cone[i][j]);  // Correção: agora o printf está dentro do for
+            printf("%d ", cone[i][j]);  
         }
         printf("\n");
     }
